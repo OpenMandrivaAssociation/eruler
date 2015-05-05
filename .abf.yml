@@ -1,2 +1,4 @@
-sources:
+removed_sources:
   eruler-20131114.tar.xz: 75f5d6dab333b004fba0d8593ff816f0ae6d0a8a
+sources:
+  eruler-20150506.tar.xz: 86d6d006a74e9fa9029ad9d5eec01ac46ed4747b

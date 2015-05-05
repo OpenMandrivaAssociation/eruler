@@ -1,4 +1,4 @@
-%define git	20131114
+%define git	20150506
 
 Epoch:	1
 Summary: 	Enlightened ruler
