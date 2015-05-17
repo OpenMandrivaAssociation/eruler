@@ -9,6 +9,7 @@ License:	BSD
 Group:		Video
 URL:		http://www.enlightenment.org/
 Source0:	%{name}-%{git}.tar.xz
+Patch0:		desktop-file-semicolon-fix.patch
 
 BuildRequires:	edje
 BuildRequires:	evas
@@ -27,6 +28,7 @@ work and do what you want.
 
 %prep
 %setup -qn %{name}-%{git}
+%apply_patches
 
 %build
 NOCONFIGURE=yes ./autogen.sh

@@ -1,0 +1,9 @@
+--- eruler-20150506/data/desktop/eruler.desktop~	2014-10-17 17:54:40.000000000 +0100
++++ eruler-20150506/data/desktop/eruler.desktop	2015-05-17 22:33:14.537294410 +0100
+@@ -30,5 +30,5 @@
+ Comment[tr]=Ekran cetveli ve ölçümü
+ Icon=eruler
+ Exec=eruler
+-Categories=Graphics
++Categories=Graphics;
+ StartupWMClass=eruler
