@@ -7,7 +7,7 @@ Version:	0.1.0
 Release:	1.%{git}.1
 License:	BSD
 Group:		Video
-URL:		http://www.enlightenment.org/
+URL:		https://www.enlightenment.org/
 Source0:	%{name}-%{git}.tar.xz
 
 BuildRequires:	edje
